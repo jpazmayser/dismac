@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "dismac-426800",
+  "private_key_id": "ff871aa56fe63694057279f58c601ad19c975d41",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEugIBADANBgkqhkiG9w0BAQEFAASCBKQwggSgAgEAAoIBAQDJJAHBlqkg0rDG\nDxDKCnSZ4suxK+EruYRrhh6Vb03qx1m+GFm+qbePxJh45G6UjsXemVQE4sSQxQ3v\nyu9SMg0sNDJPnvMubyND/vQ3ju/s9H3ehR+dENPhmmk9Lt9S86JD7WQaBVzZ+8OJ\nDTeIpzuqy8QTlTj+WmoHHi24aSNgVQ7A8kSdSFMv/2QXjGuPur7TK4y/WDiFDNUL\nn3MJwPLIDXjt9Dvs11KQfptLV4rT6fSs915nDWZU2rT8S/+hu+hoqpm6AgusOr+Y\nLATnii4H2iA2D8Qkky9mMdvQZkgRiXwdWaxTv/cskPKPueQdeI9FrhSiWd59SWke\ncbd3zZqBAgMBAAECgf9kAai/wrMEWxKTe0mA2tAUpB/U4LiJ81uk4z8fYuob9y9o\n48aiOnnQT2UvnWk1kflhSA0wdMa/Zl2tNASDhty6hKKxXTXXQmDLZn1Cvg2q1I/K\np5gS0sEI6rWp0Ze/lSHuCIsPpkCV2wOmWpkhWzH3qBxQVPz53pYLSUjMjW/ZuJ0e\nZxB1lL4V7Vu2VDUTXb6IbeXejqXCfjB5SD5ePibLTkCZNPRQgsUKCHjnCBuLGPuG\nfgV/XSwpFf/15k80tQxNJaSoBPEVPYJbdZkCNR9xsp2NS0vGZ7zbZaltmbsym/kB\nrLDhUL9fYfpQxyWtrJ6OVZrQbaCO1+kwIDI1DXkCgYEA+iKxhT66qHMizHmAml4A\n3SEwLyLpeTE31Vy3oQq4VML0mkWilCdBRBg6saOVaWJDv77HbvgxY7tHrtue4Eif\nF7BTdhewRc9y0Ktpr9FAvdQBinavq5qd1Ici9OV/R6ehGp1PmHceENsHXcfyoKW9\nH0vrl8WaJlct99jd65JOUtUCgYEAzds/X63c8RyRNFonqcXCfGi8K5O/jsFcEk4R\nbAwOI2DBB90qqkC3ga48ap94AoNbhZEW9PR2iLt7eTotPXZXPfDp3900v3IOOGpJ\n3dZWqTzc+we+xcLk2FKhfOPUDChPmP2VhWgqIaqeOy1OIaPxu9JMWU67ZpVHHxo9\n+tOBxv0CgYAxHgDn3kJ+82Tg6/bx2QWoZmz0xJE+CAkjr3oreFRr6IBpjsT2/KJX\nQb68xReAwxf0nfzBcKEaKVtRHbUb64a5+xjYdpxZiPvNt+sf6CIjZG8NBnNGai0V\n35dgqXQN2P/MnxlTIgjYXHoc0zd0jjcN3zWa7uVvI+1V3tLtACS7JQKBgBOcFh5k\nLo7dXMuy5uJaT1uQkpRIH9BWhRHNVAWJ5HLkTZ8VJ3JOdeypj2HMzR7YKoi/uIMf\nIoeF7I4wx4x6UHc7EtxbcyHlmIsxPNYgC+NVQ+u54idumGQvAuklvtZlpKd7SJoL\nwS+x1B7pAu9bcbSlpNZBFMMB52OEGXFiYpN1AoGAB9AA4Ha3IjSlxeVnMFWLiKZK\n5ufXDUtYMSqaeSksbtMinLDEEeNVCF9pxERN/r8MTTjOD0rW40Ctl4KeW+rKtei6\ndXkJXB4bCXJW47DRNj03+/RSlgv2aSUrB9OK1b3gJG2W1P3mMwIYIqSbhTtYKcud\n0Mv/YBI6z+9vxUS8RQ8=\n-----END PRIVATE KEY-----\n",
+  "client_email": "dismac@dismac-426800.iam.gserviceaccount.com",
+  "client_id": "112626563453977054822",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/dismac%40dismac-426800.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}

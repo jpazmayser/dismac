@@ -35,8 +35,13 @@ def handle_webhook(request):
         req = request.get_json(silent=True, force=True)
         logging.info(f"Request received: {req}")
 
-        # Get fulfillment text from Dialogflow response
-        fulfillment_text = req['queryResult'].get('fulfillmentText', '')
+        # Get the intent name
+        intent_name = req['queryResult']['intent']['displayName']
+
+        if intent_name == 'TestIntent':
+            fulfillment_text = 'Hello! How can I help you today?'
+        else:
+            fulfillment_text = req['queryResult'].get('fulfillmentText', '')
 
         logging.info(f"Fulfillment text: {fulfillment_text}")
 
